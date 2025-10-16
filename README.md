@@ -22,30 +22,13 @@ Bringing a medieval diorama to life with multiple small yet engaging VR interact
   <img src="Assets/InternProject/bottle03.gif" alt="breaking bottles" width="24%"/>
 </div>
 
-<table style="width:100%; table-layout: fixed; text-align: center;">
-  <thead>
-    <tr>
-      <th>Pouring Drinks</th>
-      <th>Archery</th>
-      <th>Wood Chopping</th>
-      <th>Opening Gate</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="Assets/InternProject/bottle02.gif" alt="Pouring Drinks" width="150" style="border-radius:6px;" /></td>
-      <td><img src="Assets/InternProject/Archery.02.gif" alt="Archery" width="150" style="border-radius:6px;" /></td>
-      <td><img src="Assets/InternProject/axe.02.gif" alt="Wood Chopping" width="150" style="border-radius:6px;" /></td>
-      <td><img src="Assets/InternProject/bottle03.gif" alt="Opening Gate" width="150" style="border-radius:6px;" /></td>
-    </tr>
-  </tbody>
-</table>
+<h3>Intern Project Video Demo</h3>
 
+<p>Watch the full demo of the Intern Project on YouTube:</p>
 
-<video controls autoplay muted loop style="width: 100%; max-width: 640px; border-radius: 8px;">
-  <source src="videos/end_result.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
+<a href="https://youtu.be/4tD2x0N-REA" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <img align = "center" src="Assets/InternProject/thumpnail.png" alt="Intern Project Demo Video" width="640" style="border-radius:8px; cursor:pointer;" />
+</a>
 
 ---
 
@@ -58,8 +41,11 @@ Key systems developed during the project:
 - Crypto miner PC that degrades GPU health over time in use
 - Sell points system calculating total value of all placed items
 
-<img src="gifs/money_system.gif" alt="Money Managing System" style="width: 32%; border-radius: 6px;" />
-<img src="gifs/wallet_ui.gif" alt="Wallet Tab UI" style="width: 32%; border-radius: 6px;" />
-<img src="gifs/crypto_miner.gif" alt="Crypto Miner GPU Degradation" style="width: 32%; border-radius: 6px;" />
+<div>
+  <img src="Assets/UncleBob's-ITshop/LevelSystem.1.gif" alt="Leveling system" width="24%"/>
+  <img src="Assets/UncleBob's-ITshop/SellPoint_01.gif" alt="Sellpoints" width="24%"/>
+  <img src="Assets/UncleBob's-ITshop/WalletTab3.gif" alt="Wallet tab" width="24%"/>
+  <img src="Assets/UncleBob's-ITshop/WalletTab3.gif" alt="Wallet tab" width="24%"/>
+</div>
   
 
