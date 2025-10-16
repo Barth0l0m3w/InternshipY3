@@ -13,12 +13,14 @@ Bringing a medieval diorama to life with multiple small yet engaging VR interact
 - Wood chopping activity
 - Opening the gate to explore the environment further
 
-<div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 1em;">
-  <img src="gifs/pouring_drinks.gif" alt="Pouring Drinks" style="width: 23%; border-radius: 6px;" />
-  <img src="gifs/archery.gif" alt="Archery Mini Game" style="width: 23%; border-radius: 6px;" />
-  <img src="gifs/wood_chopping.gif" alt="Wood Chopping" style="width: 23%; border-radius: 6px;" />
-  <img src="gifs/opening_gate.gif" alt="Opening Gate" style="width: 23%; border-radius: 6px;" />
-</div>
+<table>
+  <tr>
+    <td><img src="Assets/InternProject/bottle02.gif" alt="Pouring Drinks with placeholder models" style="width: 100%; border-radius: 6px;" /></td>
+    <td><img src="Assets/InternProject/Archery.02.gif" alt="Archery with placeholder models" style="width: 100%; border-radius: 6px;" /></td>
+    <td><img src="Assets/InternProject/axe.02.gif" alt="Wood Chopping with placeholder models" style="width: 100%; border-radius: 6px;" /></td>
+    <td><img src="Assets/InternProject/bottle03.gif" alt="breaking bottles" style="width: 100%; border-radius: 6px;" /></td>
+  </tr>
+</table>
 
 <video controls autoplay muted loop style="width: 100%; max-width: 640px; border-radius: 8px;">
   <source src="videos/end_result.mp4" type="video/mp4" />
