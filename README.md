@@ -13,12 +13,33 @@ Bringing a medieval diorama to life with multiple small yet engaging VR interact
 - Wood chopping activity
 - Opening the gate to explore the environment further
 
+<p><em>All demo GIFs showcase self-made placeholder 3D models, demonstrating core interaction mechanics before final art integration.</em></p>
+
 <div>
   <img src="Assets/InternProject/bottle02.gif" alt="pouring drinks with placeholder models" width="24%"/>
   <img src="Assets/InternProject/Archery.02.gif" alt="archery with placeholder models"width="24%"/>
   <img src="Assets/InternProject/axe.02.gif" alt="Wood Chopping with placeholder models" width="24%"/>
   <img src="Assets/InternProject/bottle03.gif" alt="breaking bottles" width="24%"/>
 </div>
+
+<table style="width:100%; table-layout: fixed; text-align: center;">
+  <thead>
+    <tr>
+      <th>Pouring Drinks</th>
+      <th>Archery</th>
+      <th>Wood Chopping</th>
+      <th>Opening Gate</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="Assets/InternProject/bottle02.gif" alt="Pouring Drinks" width="150" style="border-radius:6px;" /></td>
+      <td><img src="Assets/InternProject/Archery.02.gif" alt="Archery" width="150" style="border-radius:6px;" /></td>
+      <td><img src="Assets/InternProject/axe.02.gif" alt="Wood Chopping" width="150" style="border-radius:6px;" /></td>
+      <td><img src="Assets/InternProject/bottle03.gif" alt="Opening Gate" width="150" style="border-radius:6px;" /></td>
+    </tr>
+  </tbody>
+</table>
 
 
 <video controls autoplay muted loop style="width: 100%; max-width: 640px; border-radius: 8px;">
