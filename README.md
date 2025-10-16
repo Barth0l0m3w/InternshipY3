@@ -1,12 +1,10 @@
-# InternshipY3
-
-## Internship as Developer at VR-Innovations
+## My internship as developer at VR-Innovations
 
 ---
 
 ## Intern Project
 
-Bringing a medieval diorama to life with multiple small yet engaging VR interactions:
+Bringing a medieval diorama come to life with multiple small, yet engaging VR interactions:
 
 - Pouring drinks interaction
 - Archery mini game
@@ -45,7 +43,7 @@ Key systems developed during the project:
   <img src="Assets/UncleBob's-ITshop/LevelSystem.1.gif" alt="Leveling system" width="24%"/>
   <img src="Assets/UncleBob's-ITshop/SellPoint_01.gif" alt="Sellpoints" width="24%"/>
   <img src="Assets/UncleBob's-ITshop/WalletTab3.gif" alt="Wallet tab" width="24%"/>
-  <img src="Assets/UncleBob's-ITshop/WalletTab3.gif" alt="Wallet tab" width="24%"/>
+  <img src="Assets/UncleBob's-ITshop/ParticleEffect_02.gif" alt="Wallet tab" width="24%"/>
 </div>
   
 
